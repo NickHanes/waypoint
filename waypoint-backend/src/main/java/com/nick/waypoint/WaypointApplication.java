@@ -9,5 +9,4 @@ public class WaypointApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WaypointApplication.class, args);
 	}
-
 }
